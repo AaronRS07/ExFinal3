@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="menu.master.cs" Inherits="PracticaExamenFinal.CapaVistas.menu" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <link href="css/bienvenida.css" rel="stylesheet" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>   
+            <ul>
+                  <li><a class="Menu.aspx" href="#home">Inicio</a></li>
+                  <li><a href="Asignacion.aspx">Asignacion</a></li>
+                  <li><a href="EmpleadoProyecto.aspx">EmpleadoProyecto</a></li>
+                  <li><a href="Proyecto.aspx">Proyecto</a></li>
+                  
+            </ul>
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

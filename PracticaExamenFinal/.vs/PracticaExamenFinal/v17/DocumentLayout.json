@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\practicaexamenfinal\\capalogica\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|solutionrelative:practicaexamenfinal\\capalogica\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\practicaexamenfinal\\capalogica\\empleadosproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|solutionrelative:practicaexamenfinal\\capalogica\\empleadosproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\practicaexamenfinal\\capalogica\\asignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|solutionrelative:practicaexamenfinal\\capalogica\\asignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\practicaexamenfinal\\capavistas\\asignacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|solutionrelative:practicaexamenfinal\\capavistas\\asignacion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\practicaexamenfinal\\capavistas\\css\\bienvenida.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|solutionrelative:practicaexamenfinal\\capavistas\\css\\bienvenida.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\practicaexamenfinal\\capavistas\\empleadoproyecto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|solutionrelative:practicaexamenfinal\\capavistas\\empleadoproyecto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\practicaexamenfinal\\capavistas\\empleadoproyecto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|solutionrelative:practicaexamenfinal\\capavistas\\empleadoproyecto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\practicaexamenfinal\\capamodelo\\empleadosproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|solutionrelative:practicaexamenfinal\\capamodelo\\empleadosproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\practicaexamenfinal\\capamodelo\\asignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|solutionrelative:practicaexamenfinal\\capamodelo\\asignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\practicaexamenfinal\\capavistas\\asignacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|solutionrelative:practicaexamenfinal\\capavistas\\asignacion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|c:\\users\\aaron\\desktop\\uh tercer cuatri\\practicaexamenfinal\\practicaexamenfinal\\capavistas\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|solutionrelative:practicaexamenfinal\\capavistas\\menu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\practicaexamenfinal\\capavistas\\menu.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|solutionrelative:practicaexamenfinal\\capavistas\\menu.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\practicaexamenfinal\\capavistas\\proyecto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|solutionrelative:practicaexamenfinal\\capavistas\\proyecto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\practicaexamenfinal\\capamodelo\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|solutionrelative:practicaexamenfinal\\capamodelo\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\practicaexamenfinal\\capavistas\\proyecto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|solutionrelative:practicaexamenfinal\\capavistas\\proyecto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\practicaexamenfinal\\capalogica\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|solutionrelative:practicaexamenfinal\\capalogica\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\practicaexamenfinal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B80210F4-FDAA-45D1-868B-D6BB3CA76137}|PracticaExamenFinal\\PracticaExamenFinal.csproj|solutionrelative:practicaexamenfinal\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\eje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Asignacion.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaLogica\\Asignacion.cs",
+              "RelativeDocumentMoniker": "PracticaExamenFinal\\CapaLogica\\Asignacion.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaLogica\\Asignacion.cs",
+              "RelativeToolTip": "PracticaExamenFinal\\CapaLogica\\Asignacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:09:31.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpleadoProyecto.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaVistas\\EmpleadoProyecto.aspx.cs",
+              "RelativeDocumentMoniker": "PracticaExamenFinal\\CapaVistas\\EmpleadoProyecto.aspx.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaVistas\\EmpleadoProyecto.aspx.cs",
+              "RelativeToolTip": "PracticaExamenFinal\\CapaVistas\\EmpleadoProyecto.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T03:06:23.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bienvenida.css",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaVistas\\css\\bienvenida.css",
+              "RelativeDocumentMoniker": "PracticaExamenFinal\\CapaVistas\\css\\bienvenida.css",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaVistas\\css\\bienvenida.css",
+              "RelativeToolTip": "PracticaExamenFinal\\CapaVistas\\css\\bienvenida.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-15T00:01:31.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Asignacion.aspx",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaVistas\\Asignacion.aspx",
+              "RelativeDocumentMoniker": "PracticaExamenFinal\\CapaVistas\\Asignacion.aspx",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaVistas\\Asignacion.aspx",
+              "RelativeToolTip": "PracticaExamenFinal\\CapaVistas\\Asignacion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-15T03:28:47.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadosProyecto.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaLogica\\EmpleadosProyecto.cs",
+              "RelativeDocumentMoniker": "PracticaExamenFinal\\CapaLogica\\EmpleadosProyecto.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaLogica\\EmpleadosProyecto.cs",
+              "RelativeToolTip": "PracticaExamenFinal\\CapaLogica\\EmpleadosProyecto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:09:45.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaLogica\\Proyecto.cs",
+              "RelativeDocumentMoniker": "PracticaExamenFinal\\CapaLogica\\Proyecto.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaLogica\\Proyecto.cs",
+              "RelativeToolTip": "PracticaExamenFinal\\CapaLogica\\Proyecto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:09:05.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmpleadoProyecto.aspx",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaVistas\\EmpleadoProyecto.aspx",
+              "RelativeDocumentMoniker": "PracticaExamenFinal\\CapaVistas\\EmpleadoProyecto.aspx",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaVistas\\EmpleadoProyecto.aspx",
+              "RelativeToolTip": "PracticaExamenFinal\\CapaVistas\\EmpleadoProyecto.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-15T00:15:48.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpleadosProyecto.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaModelo\\EmpleadosProyecto.cs",
+              "RelativeDocumentMoniker": "PracticaExamenFinal\\CapaModelo\\EmpleadosProyecto.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaModelo\\EmpleadosProyecto.cs",
+              "RelativeToolTip": "PracticaExamenFinal\\CapaModelo\\EmpleadosProyecto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:10:23.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Asignacion.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaModelo\\Asignacion.cs",
+              "RelativeDocumentMoniker": "PracticaExamenFinal\\CapaModelo\\Asignacion.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaModelo\\Asignacion.cs",
+              "RelativeToolTip": "PracticaExamenFinal\\CapaModelo\\Asignacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:11:30.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Asignacion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaVistas\\Asignacion.aspx.cs",
+              "RelativeDocumentMoniker": "PracticaExamenFinal\\CapaVistas\\Asignacion.aspx.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaVistas\\Asignacion.aspx.cs",
+              "RelativeToolTip": "PracticaExamenFinal\\CapaVistas\\Asignacion.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T03:33:20.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "menu.Master",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaVistas\\menu.Master",
+              "RelativeDocumentMoniker": "PracticaExamenFinal\\CapaVistas\\menu.Master",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaVistas\\menu.Master",
+              "RelativeToolTip": "PracticaExamenFinal\\CapaVistas\\menu.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-14T23:51:19.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Menu.aspx",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaVistas\\Menu.aspx",
+              "RelativeDocumentMoniker": "PracticaExamenFinal\\CapaVistas\\Menu.aspx",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaVistas\\Menu.aspx",
+              "RelativeToolTip": "PracticaExamenFinal\\CapaVistas\\Menu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-15T00:18:09.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Proyecto.aspx",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaVistas\\Proyecto.aspx",
+              "RelativeDocumentMoniker": "PracticaExamenFinal\\CapaVistas\\Proyecto.aspx",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaVistas\\Proyecto.aspx",
+              "RelativeToolTip": "PracticaExamenFinal\\CapaVistas\\Proyecto.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-15T03:39:26.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaModelo\\Proyecto.cs",
+              "RelativeDocumentMoniker": "PracticaExamenFinal\\CapaModelo\\Proyecto.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaModelo\\Proyecto.cs",
+              "RelativeToolTip": "PracticaExamenFinal\\CapaModelo\\Proyecto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:10:10.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Proyecto.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaVistas\\Proyecto.aspx.cs",
+              "RelativeDocumentMoniker": "PracticaExamenFinal\\CapaVistas\\Proyecto.aspx.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaVistas\\Proyecto.aspx.cs",
+              "RelativeToolTip": "PracticaExamenFinal\\CapaVistas\\Proyecto.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T03:40:51.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DBconn.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaLogica\\DBconn.cs",
+              "RelativeDocumentMoniker": "PracticaExamenFinal\\CapaLogica\\DBconn.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\CapaLogica\\DBconn.cs",
+              "RelativeToolTip": "PracticaExamenFinal\\CapaLogica\\DBconn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T22:58:12.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\Web.config",
+              "RelativeDocumentMoniker": "PracticaExamenFinal\\Web.config",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\PracticaExamenFinal\\PracticaExamenFinal\\Web.config",
+              "RelativeToolTip": "PracticaExamenFinal\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-14T23:11:35.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "eje.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\eje.cs",
+              "RelativeDocumentMoniker": "..\\eje.cs",
+              "ToolTip": "C:\\Users\\aaron\\Desktop\\UH Tercer cuatri\\eje.cs",
+              "RelativeToolTip": "..\\eje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:58:35.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
